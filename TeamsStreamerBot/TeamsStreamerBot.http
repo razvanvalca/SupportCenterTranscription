@@ -1,0 +1,6 @@
+@TeamsStreamerBot_HostAddress = http://localhost:5079
+
+GET {{TeamsStreamerBot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
