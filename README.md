@@ -1,6 +1,5 @@
 ## README.md
 
-```markdown
 # SupportCenterTranscription
 
 A .NET-based solution for automatically joining Microsoft Teams calls/meetings for a specific support user and streaming real-time audio to an Azure Function for transcription or further processing.
